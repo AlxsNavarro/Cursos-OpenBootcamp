@@ -1,0 +1,21 @@
+<!DOCTYPE>
+<html>
+    <head>
+      <title>Ejercicio 02 - Formulracio en HTML</title>
+    </head>
+    <body>
+      <div>
+        <form action="/" method="GET">
+          <label for="nombre">Nombre</label>
+          <input typw="text" name="nombre" id="nombre" />
+      </div>
+      <br>
+      <div>
+        <label for="edad">Edad</label>
+        <input type="number" name="edad" id="edad" />
+      </div>
+      <br>
+      <buttom type="reset">Reset</buttom>
+      <buttom type="submit">Reset</buttom>
+    </body>
+</html>
